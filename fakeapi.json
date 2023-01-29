@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "sname": "Anil",
+      "fee": 10000,
+      "course": "Angular",
+      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 4,
+      "id": 1
+    },
+    {
+      "sname": "Anil",
+      "fee": 10000,
+      "course": "Angular",
+      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 4,
+      "id": 2
+    },
+    {
+      "sname": "Anil",
+      "fee": 10000,
+      "course": "Angular",
+      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 4,
+      "id": 3
+    },
+    {
+      "sname": "desctwo",
+      "fee": "33",
+      "course": "",
+      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "title": "tilte",
+      "star": 4,
+      "id": 4
+    },
+    {
+      "fee": "323",
+      "course": "desc",
+      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 2,
+      "title": "title",
+      "id": 5
+    },
+    {
+      "fee": "24",
+      "course": "dee",
+      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 2,
+      "title": "demo",
+      "id": 6
+    },
+    {
+      "fee": "3",
+      "course": "best book",
+      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "star": 2,
+      "title": "Python",
+      "id": 7
+    }
+  ]
+}
